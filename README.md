@@ -187,7 +187,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Authors
 
 - **DadOfTheClan** - Original concept and implementation
-- **Enhanced by Claude** - Visual improvements and error handling
 
 ## 🙏 Acknowledgments
 
